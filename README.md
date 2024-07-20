@@ -75,6 +75,8 @@ Clutter("index.js")
 > eg. if you have `.env` , `main.js` files.
 >
 > Just pass them as strings like `Clutter("index.js", ".env", "main.js")`
+>
+> Make sure import has the complete file name as `../clutter.js`
 
 **4**. Execute the utility using `node.js` ( eg. your file is `index.js` )
 ```bash
