@@ -1,0 +1,13 @@
+{
+  "name": "fileorganizer",
+  "version": "1.0.0",
+  "description": "It is a utility for organizing files",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "keywords": ["clean"],
+  "author": "Ninja-Vikash",
+  "license": "ISC"
+}
